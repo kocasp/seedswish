@@ -323,7 +323,7 @@ i.fas.fa-bars {
 }
 .tech-container {
     position: relative;
-    width: 750px;
+    width: 600px;
     margin: auto;
 }
 .industries img,
@@ -2156,7 +2156,7 @@ footer img {
     .mt-10 {
         margin-top: 3rem;
     }
-} 
+}
 
 /************14. Preloader************/
 .preloader {
@@ -2165,7 +2165,7 @@ footer img {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #0a1372;
+    background-color: #5e1273;
     z-index: 999999;
     text-align: center;
 }
