@@ -11484,7 +11484,7 @@ a.block:hover > .feature {
     right: 0;
     margin-left: 0.46428571em;
     min-width: 0;
-} 
+}
 /*! -- Stack Switchable Sections -- */
 @media all and (min-width: 768px) {
     .switchable .container > .row {
@@ -11595,7 +11595,7 @@ a.block:hover > .feature {
     .cta-3 .switchable__text {
         margin-top: 5.57142857em;
     }
-} 
+}
 /*! -- Stack Videos -- */
 .video-play-icon:before {
     border-color: transparent transparent transparent #252525;
@@ -11674,7 +11674,7 @@ a.block:hover > .feature {
     left: 50%;
     transform: translate3d(-50%, -50%, 0);
     -webkit-transform: translate3d(-50%, -50%, 0);
-} 
+}
 /*! -- Stack Modals -- */
 .modal-container .modal-content:not(.height--natural) {
     height: 75%;
@@ -11771,7 +11771,7 @@ a.block:hover > .feature {
     text-align: center;
     border-radius: 50%;
     color: #fff;
-} 
+}
 /*! -- Stack Loader -- */
 .loader {
     border: 3px solid #234254;
@@ -11802,7 +11802,7 @@ a.block:hover > .feature {
         transform: scale(1.2);
         opacity: 0;
     }
-} 
+}
 /*! -- Stack Lightboxes -- */
 .lb-close {
     position: relative;
@@ -11966,7 +11966,7 @@ a[data-lightbox]:hover {
     .cover-features .row:nth-child(2) {
         margin-top: 3.71428571em;
     }
-} 
+}
 /*! -- Stack Processes -- */
 .process-1 {
     padding: 3.71428571em 0;
@@ -12189,7 +12189,7 @@ a[data-lightbox]:hover {
 .bg--dark .process-stepper li:not(.active):after,
 .bg--dark .process-stepper li:not(.active):before {
     background: #585858;
-} 
+}
 /*! -- Stack Typed Text -- */
 span + .typed-text.h2 {
     margin-left: 4px;
@@ -12703,7 +12703,7 @@ input[type="image"] {
     padding: 0;
     width: auto;
     border: none;
-} 
+}
 /*! -- Stack Subscribe Forms -- */
 .subscribe-form-1 h3 {
     margin-bottom: 0.52em;
@@ -12730,7 +12730,7 @@ input[type="image"] {
     .subscribe-form-2 form {
         margin-top: 1.85714286em;
     }
-} 
+}
 /*! -- Stack Elaborate Forms -- */
 @media all and (max-width: 767px) {
     .elaborate-form-1 .pos-vertical-center {
@@ -12873,7 +12873,7 @@ input[type="image"] {
     button {
         margin-top: 1.85714286em;
     }
-} 
+}
 /*! -- Stack Sliders -- */
 .flickity-prev-next-button {
     transition: 0.3s ease;
@@ -12971,7 +12971,7 @@ input[type="image"] {
     .radial {
         margin-bottom: 1.85714286em;
     }
-} 
+}
 /*! -- Stack Pricing -- */
 .pricing {
     transition: 0.3s ease;
@@ -13161,7 +13161,7 @@ input[type="image"] {
 .imagebg .progress-horizontal__bar {
     background: rgba(20, 20, 20, 0.2);
     border: none;
-} 
+}
 /*! -- Stack Maps -- */
 iframe[src*="google.com/maps"] {
     border: none;
@@ -13194,7 +13194,7 @@ iframe[src*="google.com/maps"] {
     .map-container + div[class*="col-"] {
         margin-top: 3.71428571em;
     }
-} 
+}
 /*! -- Stack Testimonials -- */
 .testimonial-section {
     position: relative;
@@ -13271,7 +13271,7 @@ iframe[src*="google.com/maps"] {
     .testimonials-1 .list-inline li {
         margin-bottom: 1.85714286em;
     }
-} 
+}
 /*! -- Stack Masonry -- */
 .masonry__item:not(:empty) {
     margin-bottom: 30px;
@@ -13793,7 +13793,7 @@ section.unpad > article .imagebg + div {
 .conversation__reply + .conversation__comments .comments__list li:first-child {
     border-radius: 0;
     border-top: none;
-} 
+}
 /*! -- Stack Portfolio -- */
 .project-thumb > a {
     display: block;
@@ -13881,7 +13881,7 @@ section.unpad > article .imagebg + div {
 }
 .col-md-4 .project-thumb > a:not(.imagebg) {
     margin-bottom: 0.92857143em;
-} 
+}
 /*! -- Stack Shop -- */
 .cart-form button[type="submit"] {
     margin-top: 1.85714286em;
